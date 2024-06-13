@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:56:07	40797/40797	---M--	200	added ('OK')	text/html	date:Thu,%2013%20Jun%202024%2015:56:06%20GMT	http://127.0.0.1:8080/login.html	LOCALDIRECTORY/127.0.0.1_8080/login.html	(from )
+10:56:08	543/543	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2013%20Jun%202024%2015:56:07%20GMT	http://127.0.0.1:8080/robots.txt		(from )
+10:56:08	4414/4414	---M--	200	added ('OK')	image/vnd.microsoft.icon	date:Thu,%2013%20Jun%202024%2015:56:08%20GMT	http://127.0.0.1:8080/favicon.ico	LOCALDIRECTORY/127.0.0.1_8080/favicon.ico	(from http://127.0.0.1:8080/login.html)

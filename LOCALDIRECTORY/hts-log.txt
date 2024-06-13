@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Thu, 13 Jun 2024 10:56:06 at http://127.0.0.1:8080/login.html
+(httrack http://127.0.0.1:8080/login.html -O LOCALDIRECTORY )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-5 mirror complete in 3 seconds : 3 links scanned, 2 files written (45211 bytes overall) [46238 bytes received at 15412 bytes/sec]
+(No errors, 0 warnings, 0 messages)
